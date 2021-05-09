@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<svg width="951" height="234" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <polygon points="4,230 4,4 947,4 947,230 4,230" stroke="#fffffe00" fill="none"/>
+ <polygon points="24,222 49,222 118,222 219,222 342,222 476,222 609,222 732,222 833,222 902,222 927,222 929,222 931,221 932,221 934,220 935,218 937,217 938,215 938,214 939,212 939,210 939,205 939,191 939,170 939,145 939,117 939,89 939,64 939,43 939,29 939,24 939,22 938,20 938,19 937,17 935,16 934,14 932,13 931,13 929,12 927,12 902,12 833,12 732,12 609,12 476,12 342,12 219,12 118,12 49,12 24,12 22,12 20,13 19,13 17,14 16,16 14,17 13,19 13,20 12,22 12,24 12,29 12,43 12,64 12,89 12,117 12,145 12,170 12,191 12,205 12,210 12,212 13,214 13,215 14,217 16,218 17,220 19,221 20,221 22,222 24,222" stroke="#afd870" fill="none"/>
+ <text x="430" y="27" fill="#afd870" font-family="Arial" font-size="12">Studienarbeit</text>
+ <polygon points="891,116 683,116 681,119 681,142 888,142 891,139 891,116" stroke="#90c4e4" fill="none"/>
+ <polyline points="888,119 681,119" stroke="#90c4e4" fill="none"/>
+ <polyline points="888,119 888,142" stroke="#90c4e4" fill="none"/>
+ <polyline points="888,119 891,116" stroke="#90c4e4" fill="none"/>
+ <text x="689" y="131" fill="#000000" font-family="Arial" font-size="12">Studienarbeit/Calculation.cs</text>
+ <polygon points="520,46 337,46 335,49 335,72 517,72 520,69 520,46" stroke="#90c4e4" fill="none"/>
+ <polyline points="517,49 335,49" stroke="#90c4e4" fill="none"/>
+ <polyline points="517,49 517,72" stroke="#90c4e4" fill="none"/>
+ <polyline points="517,49 520,46" stroke="#90c4e4" fill="none"/>
+ <text x="343" y="61" fill="#000000" font-family="Arial" font-size="12">Studienarbeit/Fenster.cs</text>
+ <polyline points="494,72 513,76 534,80 557,84 579,89 603,93 626,98 649,102 672,107 693,111 713,115" stroke="#4e8cb9" fill="none"/>
+ <text x="586" y="85" fill="#000000" font-family="Arial" font-size="12">25</text>
+ <polygon points="713,113 718,116 713,117 713,113" stroke="#4e8cb9" fill="#4e8cb9"/>
+ <polygon points="912,51 662,51 660,54 660,77 909,77 912,74 912,51" stroke="#90c4e4" fill="none"/>
+ <polyline points="909,54 660,54" stroke="#90c4e4" fill="none"/>
+ <polyline points="909,54 909,77" stroke="#90c4e4" fill="none"/>
+ <polyline points="909,54 912,51" stroke="#90c4e4" fill="none"/>
+ <text x="668" y="66" fill="#000000" font-family="Arial" font-size="12">Studienarbeit/Fenster.Designer.cs</text>
+ <polyline points="520,60 533,60 545,61 559,61 572,61 586,61 600,62 613,62 627,62 641,62 654,62" stroke="#4e8cb9" fill="none"/>
+ <text x="586" y="55" fill="#000000" font-family="Arial" font-size="12">25</text>
+ <polygon points="654,60 659,62 654,64 654,60" stroke="#4e8cb9" fill="#4e8cb9"/>
+ <polygon points="207,79 30,79 28,82 28,105 204,105 207,102 207,79" stroke="#90c4e4" fill="none"/>
+ <polyline points="204,82 28,82" stroke="#90c4e4" fill="none"/>
+ <polyline points="204,82 204,105" stroke="#90c4e4" fill="none"/>
+ <polyline points="204,82 207,79" stroke="#90c4e4" fill="none"/>
+ <text x="36" y="94" fill="#000000" font-family="Arial" font-size="12">Studienarbeit/Form1.cs</text>
+ <polyline points="207,96 213,96 219,97 225,97 231,97 238,98 244,98 250,98 256,98 262,99 268,99 311,101 354,104 398,106 442,108 485,111 527,113 567,116 606,118 642,120 675,122" stroke="#4e8cb9" fill="none"/>
+ <text x="418" y="95" fill="#000000" font-family="Arial" font-size="12">42</text>
+ <polygon points="675,121 680,123 675,124 675,121" stroke="#4e8cb9" fill="#4e8cb9"/>
+ <polyline points="207,82 219,81 231,80 243,78 255,77 268,76 280,75 293,73 305,72 317,70 329,69" stroke="#4e8cb9" fill="none"/>
+ <text x="255" y="70" fill="#000000" font-family="Arial" font-size="12">1</text>
+ <polygon points="329,68 334,69 330,71 329,68" stroke="#4e8cb9" fill="#4e8cb9"/>
+ <polygon points="550,188 307,188 304,191 304,214 547,214 550,211 550,188" stroke="#90c4e4" fill="none"/>
+ <polyline points="547,191 304,191" stroke="#90c4e4" fill="none"/>
+ <polyline points="547,191 547,214" stroke="#90c4e4" fill="none"/>
+ <polyline points="547,191 550,188" stroke="#90c4e4" fill="none"/>
+ <text x="312" y="203" fill="#000000" font-family="Arial" font-size="12">Studienarbeit/Form1.Designer.cs</text>
+ <polyline points="189,105 192,106 194,107 197,108 199,109 202,110 204,111 207,112 209,113 212,114 214,115 219,118 223,120 227,123 230,126 233,129 235,132 238,135 242,138 245,141 250,145 256,150 262,154 267,158 271,161 276,165 280,168 285,170 291,173 297,176 304,179 306,180 308,181 311,181 313,182 315,183 317,184 320,185 322,185 325,186 327,187" stroke="#4e8cb9" fill="none"/>
+ <text x="250" y="138" fill="#000000" font-family="Arial" font-size="12">13</text>
+ <polygon points="328,185 332,188 327,188 328,185" stroke="#4e8cb9" fill="#4e8cb9"/>
+ <polygon points="539,144 318,144 315,147 315,170 536,170 539,167 539,144" stroke="#90c4e4" fill="none"/>
+ <polyline points="536,147 315,147" stroke="#90c4e4" fill="none"/>
+ <polyline points="536,147 536,170" stroke="#90c4e4" fill="none"/>
+ <polyline points="536,147 539,144" stroke="#90c4e4" fill="none"/>
+ <text x="323" y="159" fill="#000000" font-family="Arial" font-size="12">Studienarbeit/LampenWahl.cs</text>
+ <polyline points="180,105 196,108 213,112 232,116 250,120 269,124 288,128 307,132 325,136 343,140 359,143" stroke="#4e8cb9" fill="none"/>
+ <text x="255" y="114" fill="#000000" font-family="Arial" font-size="12">1</text>
+ <polygon points="360,141 364,144 359,145 360,141" stroke="#4e8cb9" fill="#4e8cb9"/>
+ <polyline points="539,155 546,155 552,155 559,155 565,155 572,154 578,154 585,154 591,153 598,153 604,152 612,151 621,151 630,150 639,149 648,148 656,147 665,146 674,145 683,144 691,143" stroke="#4e8cb9" fill="none"/>
+ <text x="587" y="145" fill="#000000" font-family="Arial" font-size="12">11</text>
+ <polygon points="691,141 696,142 691,144 691,141" stroke="#4e8cb9" fill="#4e8cb9"/>
+ <polygon points="931,181 643,181 640,184 640,207 928,207 931,204 931,181" stroke="#90c4e4" fill="none"/>
+ <polyline points="928,184 640,184" stroke="#90c4e4" fill="none"/>
+ <polyline points="928,184 928,207" stroke="#90c4e4" fill="none"/>
+ <polyline points="928,184 931,181" stroke="#90c4e4" fill="none"/>
+ <text x="649" y="196" fill="#000000" font-family="Arial" font-size="12">Studienarbeit/LampenWahl.Designer.cs</text>
+ <polyline points="532,170 537,171 543,171 548,172 554,172 559,173 565,174 570,174 576,175 581,175 586,176 591,177 596,177 600,178 605,178 610,179 615,179 620,179 625,180 630,180 635,181" stroke="#4e8cb9" fill="none"/>
+ <text x="586" y="169" fill="#000000" font-family="Arial" font-size="12">28</text>
+ <polygon points="635,179 640,181 635,183 635,179" stroke="#4e8cb9" fill="#4e8cb9"/>
+ <polygon points="214,124 23,124 20,127 20,150 211,150 214,147 214,124" stroke="#90c4e4" fill="none"/>
+ <polyline points="211,127 20,127" stroke="#90c4e4" fill="none"/>
+ <polyline points="211,127 211,150" stroke="#90c4e4" fill="none"/>
+ <polyline points="211,127 214,124" stroke="#90c4e4" fill="none"/>
+ <text x="28" y="139" fill="#000000" font-family="Arial" font-size="12">Studienarbeit/Program.cs</text>
+ <polyline points="194,150 196,151 198,152 200,153 202,154 204,155 206,155 208,156 210,157 212,158 214,159 219,162 223,166 227,170 229,174 232,178 234,182 237,185 240,189 244,192 250,195 255,197 259,199 264,201 269,202 274,203 279,205 283,206 288,207 293,207 298,208" stroke="#4e8cb9" fill="none"/>
+ <text x="255" y="188" fill="#000000" font-family="Arial" font-size="12">1</text>
+ <polygon points="299,206 304,209 298,210 299,206" stroke="#4e8cb9" fill="#4e8cb9"/>
+ <polygon points="210,188 27,188 24,191 24,214 207,214 210,211 210,188" stroke="#90c4e4" fill="none"/>
+ <polyline points="207,191 24,191" stroke="#90c4e4" fill="none"/>
+ <polyline points="207,191 207,214" stroke="#90c4e4" fill="none"/>
+ <polyline points="207,191 210,188" stroke="#90c4e4" fill="none"/>
+ <text x="32" y="203" fill="#000000" font-family="Arial" font-size="12">Studienarbeit/Properties</text>
+</svg>
